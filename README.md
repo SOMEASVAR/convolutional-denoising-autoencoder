@@ -32,6 +32,7 @@ Pooling Layer
 Up Sampling Layer.
 </ul>
 Make sure the input shape and output shape of the model are identical.
+
 ### STEP 5:
 
 ### STEP 6:
