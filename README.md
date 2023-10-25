@@ -28,11 +28,13 @@ Include your code here
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/SOMEASVAR/convolutional-denoising-autoencoder/assets/93434149/cbb6f0b8-c727-44b5-a9a5-6532130b12f8)
+
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
+![image](https://github.com/SOMEASVAR/convolutional-denoising-autoencoder/assets/93434149/8babed85-86dc-422a-8d7b-f673ae56fe7e)
+
 
 
 
